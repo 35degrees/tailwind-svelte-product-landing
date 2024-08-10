@@ -23,7 +23,7 @@
    <div class="flex items-center justify-between">
     <!-- logo -->
      <div class="pt-2">
-      <img src="src/lib/img/logo.svg" alt="logo">
+      <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/logo.svg" alt="logo">
      </div>
 
      <!-- menu items  -->
@@ -185,7 +185,7 @@
         <div class="flex flex-col mt-12 md:flex-row md:space-x-6">
           <!-- testimonial 1 -->
            <div class="flex flex-col items-center p-6 space-y-3 rounded-lg md:w-1/3 shadow-[4px_4px_12px_-2px_rgba(0,0,0,0.3)] bg-veryLightGrey">
-            <img src="src/lib/img/avatar-anisha.png" class="w-16 -mt-14" alt="anisha">
+            <img src="https://github.com/35degrees/tailwind-svelte-product-landing/blob/main/src/lib/img/avatar-anisha.png?raw=true" class="w-16 -mt-14" alt="anisha">
             <h5 class="text-lg font-bold">Anisha Lee</h5>
             <p class="text-sm text-darkGreyishBlue text-center">
               "Manage has supercharged our team's workflow. The ability to maintain visibilitiy on larger milestones at all times keeps everyone motivated."
@@ -201,7 +201,7 @@
           </div>
           <!-- testimonial 3 -->
            <div class="hidden md:flex flex-col items-center p-6 space-y-3 rounded-lg bg-veryLightGrey shadow-[4px_4px_12px_-2px_rgba(0,0,0,0.3)] md:w-1/3">
-            <img src="src/lib/img/avatar-richard.png" class="w-16 -mt-14" alt="anisha">
+            <img src="https://github.com/35degrees/tailwind-svelte-product-landing/blob/main/src/lib/img/avatar-richard.png?raw=true" class="w-16 -mt-14" alt="anisha">
             <h5 class="text-lg font-bold">Richard Watts</h5>
             <p class="text-sm text-darkGreyishBlue text-center">
               "Manage has supercharged our team's workflow. The ability to maintain visibilitiy on larger milestones at all times keeps everyone motivated."
@@ -241,24 +241,24 @@
           </div>
           <!-- logo -->
            <div>
-            <img src="src/lib/img/logo-white.svg" alt="" class="h-8">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/logo-white.svg" alt="" class="h-8">
            </div>
            <!-- social links  -->
             <div class="flex justify-center space-x-4">
               <a href="#">
-                <img src="src/lib/img/icon-facebook.svg" alt="" class="h-8">
+                <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/icon-facebook.svg" alt="" class="h-8">
               </a>
               <a href="#">
-                <img src="src/lib/img/icon-youtube.svg" alt="" class="h-8">
+                <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/icon-youtube.svg" alt="" class="h-8">
               </a>
               <a href="#">
-                <img src="src/lib/img/icon-twitter.svg" alt="" class="h-8">
+                <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/icon-twitter.svg" alt="" class="h-8">
               </a>
               <a href="#">
-                <img src="src/lib/img/icon-instagram.svg" alt="" class="h-8">
+                <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/icon-instagram.svg" alt="" class="h-8">
               </a>
               <a href="#">
-                <img src="src/lib/img/icon-pinterest.svg" alt="" class="h-8">
+                <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/icon-pinterest.svg" alt="" class="h-8">
               </a>
             </div>
          </div>

@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 body {
-	background-image: url('src/lib/img/bg-tablet-pattern.svg');
+	background-image: url('https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/bg-tablet-pattern.svg');
 	background-repeat: no-repeat;
 	background-size: 800px;
 	background-position: 90% -25%;
 }
 
 #cta {
-	background-image: url('src/lib/img/bg-simplify-section-desktop.svg');
+	background-image: url('https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/bg-simplify-section-desktop.svg');
 	background-repeat: no-repeat;
 }
 
@@ -20,7 +20,7 @@ body {
 		background-size: 500px;
 	}
 	#cta {
-		background-image: url('src/lib/img/bg-simplify-section-mobile.svg');
+		background-image: url('https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/2380ad58bf3bef91a57b41d722f031e9a89a13d2/src/lib/img/bg-simplify-section-mobile.svg');
 	}
 }
 
