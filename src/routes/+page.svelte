@@ -193,7 +193,7 @@
           </div>
           <!-- testimonial 2 -->
            <div class="hidden md:flex flex-col items-center p-6 space-y-3 rounded-lg bg-veryLightGrey shadow-[4px_4px_12px_-2px_rgba(0,0,0,0.3)] md:w-1/3 ">
-            <img src="https://github.com/35degrees/tailwind-svelte-product-landing/blob/main/src/lib/img/avatar-ali.png?raw=true" class="w-16 -mt-14" alt="anisha">
+            <img src="https://github.com/35degrees/tailwind-svelte-product-landing/blob/main/src/lib/img/avatar-ali.png?raw=true" class="w-16 -mt-14" alt="ali">
             <h5 class="text-lg font-bold">Ali Bravo</h5>
             <p class="text-sm text-darkGreyishBlue text-center">
               "We have been able to cancel so many other subscriptions since using Manager. There's no more cross-channel confusion and everyone is focused."
