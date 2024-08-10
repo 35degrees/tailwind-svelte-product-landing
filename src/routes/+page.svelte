@@ -80,7 +80,7 @@
     </div>
 
     <div class="md:w-1/2">
-      <img src="src/lib/img/illustration-intro.svg" alt="">
+      <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-product-landing/6ff05613ef83032ef2274b685f4b27f7f6f08b16/src/lib/img/illustration-intro.svg" alt="">
     </div>
    </div>
  </section>
